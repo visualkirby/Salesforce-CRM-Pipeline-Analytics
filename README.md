@@ -6,7 +6,21 @@
 
 A Salesforce Sales Cloud build modeling Benchline Analytics' own client-acquisition pipeline: 10 synthetic small-business prospects across medical, home-services, professional-services, and retail verticals, tracked through a full sales cycle from Prospecting to Closed Won or Lost. Reports, a dashboard, and one automation Flow sit on top of that data, all built at the CRM admin/analyst level, not the developer level.
 
-> **In progress:** the second Salesforce superbadge for this skill area (Dashboard Insights for Agentforce Readiness) hasn't been earned yet. This repo stays private until that's done.
+---
+
+# Credentials
+
+Two Salesforce superbadges back the reports and dashboard work in this repo.
+
+### Report Administration for Agentforce Readiness
+[![Superbadge](https://img.shields.io/badge/🎖️_Superbadge-Report_Administration-05467c)](https://trailhead.salesforce.com/content/learn/superbadges/superbadge_reports_admin_for_agentforce_readiness_sbu)
+
+![Report Administration for Agentforce Readiness superbadge](screenshots/superbadge-report-administration-for-agentforce-readiness.png)
+
+### Dashboard Insights for Agentforce Readiness
+[![Superbadge](https://img.shields.io/badge/🎖️_Superbadge-Dashboard_Insights-05467c)](https://trailhead.salesforce.com/content/learn/superbadges/dashboard_insights_for_agentforce_readiness_superbadge_unit)
+
+![Dashboard Insights for Agentforce Readiness superbadge](screenshots/superbadge-dashboard-insights-for-agentforce-readiness.png)
 
 ---
 
